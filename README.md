@@ -2,6 +2,10 @@
 
 In this Project we are going to take the quiz and check the reslts and going through many more operations
 
+# Deployed Version
+
+https://quiz-g5ar.onrender.com/
+
 # Getting Access to Admin Dashboard
 
 Please Use this Credentials to get access to admin Dashboard
