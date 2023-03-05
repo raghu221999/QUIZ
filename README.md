@@ -1,3 +1,13 @@
+# About the Project
+
+In this Project we are going to take the quiz and check the reslts and going through many more operations
+
+# Getting Access to Admin Dashboard
+
+Please Use this Credentials to get access to admin Dashboard
+Using Admin Dashboard We are Going To Add Questions, Edit Questions, Delete Questions
+as well as we are goint to get the Results of All the Users
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
