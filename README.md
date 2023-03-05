@@ -8,6 +8,9 @@ Please Use this Credentials to get access to admin Dashboard
 Using Admin Dashboard We are Going To Add Questions, Edit Questions, Delete Questions
 as well as we are goint to get the Results of All the Users
 
+Username : admin@gmail.com
+Password : 1234
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
