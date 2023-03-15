@@ -39,13 +39,13 @@ function Register() {
               <Form.Item
               name='name'
               label='Name'
-              rules={[{ required: true, message: "Please input your name!" }]}>
+              rules={[{ required: true, message: "Name is Mandatory!" }]}>
                 <input type="text"/>         
                 </Form.Item>
               <Form.Item
               name='email'
               label='Email'
-              rules={[{ required: true, message: "Please input your email!" }]}>
+              rules={[{ required: true, message: "Email is Mandatory" }]}>
                 <input type="text"/>         
                 </Form.Item>
                 <Form.Item
