@@ -39,7 +39,7 @@ function Register() {
               <Form.Item
               name='name'
               label='Name'
-              rules={[{ required: true, message: "Name is Mandatory!" }]}>
+              rules={[{ required: true, message: "Name is Mandatory" }]}>
                 <input type="text"/>         
                 </Form.Item>
               <Form.Item
@@ -51,7 +51,7 @@ function Register() {
                 <Form.Item
               name='password'
               label='Password'
-              rules={[{ required: true, message: "Please input your password!" }]}>
+              rules={[{ required: true, message: "Please Set a Password" }]}>
                 <input type="password"/>         
                 </Form.Item>
                 <div className="flex flex-col gap-2">
