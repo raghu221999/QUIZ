@@ -38,17 +38,20 @@ function Register() {
               className='mt-2' onFinish={onFinish}>
               <Form.Item
               name='name'
-              label='Name'>
+              label='Name'
+              rules={[{ required: true, message: "Please input your name!" }]}>
                 <input type="text"/>         
                 </Form.Item>
               <Form.Item
               name='email'
-              label='Email'>
+              label='Email'
+              rules={[{ required: true, message: "Please input your email!" }]}>
                 <input type="text"/>         
                 </Form.Item>
                 <Form.Item
               name='password'
-              label='Password'>
+              label='Password'
+              rules={[{ required: true, message: "Please input your password!" }]}>
                 <input type="password"/>         
                 </Form.Item>
                 <div className="flex flex-col gap-2">
